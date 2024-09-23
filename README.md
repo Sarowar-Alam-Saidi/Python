@@ -1,2 +1,1 @@
-# Python
-print ('Hello Python . it's github ')
+Python practise repo 
